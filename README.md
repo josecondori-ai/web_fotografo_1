@@ -1,11 +1,11 @@
-# 📸 Página Web para Fotógrafo X
+# 📸 Página Web para Fotógrafo Julián Martínez
 
 
 https://github.com/user-attachments/assets/ab4ac586-99bc-4bf3-8f8e-4f9bb517e88c
 
 ## 📖 Visión General
 
-Este proyecto es una página web diseñada para **Fotógrafo X**, enfocada en mostrar su trabajo de manera visual y atractiva. La página destaca los diferentes estilos fotográficos en los que se especializa, con galerías interactivas que resaltan su arte y talento. 🖼️
+Este proyecto es una página web diseñada para **Fotógrafo Julián Martínez**, enfocada en mostrar su trabajo de manera visual y atractiva. La página destaca los diferentes estilos fotográficos en los que se especializa, con galerías interactivas que resaltan su arte y talento. 🖼️
 
 ## 🌟 Características Destacadas
 - 🎨 **Diseño Minimalista**: Enfocado en la simplicidad para resaltar las imágenes.
